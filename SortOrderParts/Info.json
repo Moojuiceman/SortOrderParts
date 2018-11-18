@@ -1,0 +1,9 @@
+{
+  "Id": "SortOrderParts",
+  "DisplayName": "Sort Order Parts",
+  "Author": "Moojuiceman",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.12.0",
+  "AssemblyName": "SortOrderParts.dll",
+  "EntryMethod": "SortOrderPartsNS.SortOrderParts.Load"
+}
